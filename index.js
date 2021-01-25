@@ -1,9 +1,3 @@
-// Challenges
-    // fetching data about movies
-    // building auto complete widget from scratch
-    // need some css styling
-// Solutions
-    // hard code each movie VERSUS fetch from a free server, such as omdbapi.com
 
     // to make this code work you must get your own FREE apikey from http://www.omdbapi.com/
 
